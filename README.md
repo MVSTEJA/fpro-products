@@ -1,5 +1,7 @@
 ## How to use
 
+Deployed site link: [fpro-products.onrender.com](https://fpro-products.onrender.com/)
+
 Install it and run:
 
 With Npm:
@@ -13,5 +15,3 @@ With yarn:
 yarn install
 yarn start
 ```
-
-[Deployed site link: fpro-products.onrender.com](https://fpro-products.onrender.com/)
